@@ -9,6 +9,7 @@ int main()
         printf("pass\n");
         continue;
        }
+      printf("%d\n",i);
    }
 
 }
